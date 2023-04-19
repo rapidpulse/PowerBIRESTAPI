@@ -26,3 +26,5 @@ You can grab the .mez file from this [link](https://github.com/migueesc123/Power
 ![Power BI API Custom Connector in Get Data window](https://github.com/migueesc123/PowerBIRESTAPI/blob/master/Power%20BI%20REST%20API.png)
 
 For more information on how to create your own custom connectors folder, please visit the [official documentation from Microsoft Power BI Custom Connectors](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connector-extensibility#custom-connectors).
+
+[![Open in Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)](https://open.vscode.dev/rapidpulse/PowerBIRESTAPI)
